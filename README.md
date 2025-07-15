@@ -1,3 +1,7 @@
+
+<img width="1024" height="1024" alt="Logo-Transparent" src="https://github.com/user-attachments/assets/3bf2bdd4-9c53-4c2b-b44e-214d7b8837bf" />
+
+
 Privacy Policy for Clear Shot app
 
 Information We Collect Clear Shot does not collect, store, or share any personal data from users.
